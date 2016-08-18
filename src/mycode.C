@@ -8,4 +8,5 @@ int main()
 // Added a silly func
 void myFunc()
 {
+  // Added some code
 }
