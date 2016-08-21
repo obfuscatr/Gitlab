@@ -10,3 +10,8 @@ void myFunc()
 {
   // Added some code here and there
 }
+
+// Added a new function
+void newFunc()
+{
+}
